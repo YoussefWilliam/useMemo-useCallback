@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  display: block;
+}
+.mega-boost-button {
+  background: hsl(350deg 100% 40%);
+  color: white;
+  padding: 16px 48px;
+  border: none;
+}
